@@ -186,7 +186,7 @@ input[type='button']{ cursor: pointer; padding: 8px 12px 8px 12px; background-co
 @media (min-width: 1000px){
   input[type='button']{margin-top: 5px; font-size: 1.1em;}
   form{ height: 20%;}
-  #container{ width: 30vw; height:50vh;}
+  #container{ width: 25vw; height:50vh;}
   #avatar{height: 40%;}
   #foto{height: 50%;}
   select{ text-align: center;}
@@ -196,26 +196,10 @@ input[type='button']{ cursor: pointer; padding: 8px 12px 8px 12px; background-co
   #texto1{ font-size: 1.2em;}
   
 }
-
-
-
 @media (min-width: 1395px){
   form{height: 20%;}
   input[type='button']{margin-top: 5px;}
   h2{ font-size: 1.5em;}
   select{font-size: 1.3em;}
   #texto1{ font-size: 1.5em;}
-  input[type='button']{margin-top: 5px; font-size: 1.3em;
-}
-
-  
-    
-
-
-
-
-   
-
-   
-
-    
+  input[type='button']{margin-top:5px; font-size: 1.3em;}}

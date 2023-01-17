@@ -153,9 +153,9 @@ input[type='button']{ cursor: pointer; padding: 8px 12px 8px 12px; background-co
   select{font-size: 1em;}
   input[type="button"]{ font-size: 1em;}
   #texto1{font-size: 1.2em;}
-  img{ height: 125px;}
-  #foto{ margin: auto 0; margin-top: 10px;}
-  #avatar{ height: 40%;margin-top: 0;}
+  img{ height: 100px;}
+  #foto{ margin: auto 0; margin-top: 10px; padding: ;}
+  #avatar{ height: 35%;margin-top: 0;}
   form{ height: 22%;}
   
 
@@ -196,6 +196,9 @@ input[type='button']{ cursor: pointer; padding: 8px 12px 8px 12px; background-co
   #texto1{ font-size: 1.2em;}
   
 }
+
+
+
 @media (min-width: 1395px){
   form{height: 20%;}
   input[type='button']{margin-top: 5px;}
